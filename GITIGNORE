@@ -1,0 +1,20 @@
+# Ignorar arquivos CSV brutos
+*.csv
+
+# Ignorar arquivos de modelos treinados
+*.pkl
+*.h5
+
+# Ignorar diretórios de saída, como gráficos gerados ou arquivos temporários
+output/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do editor de código
+*.swp
+*.bak
+
+# Ignorar arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
