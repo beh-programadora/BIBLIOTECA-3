@@ -1,0 +1,17 @@
+project-root/
+│
+├── README.md               # Descrição do projeto, instruções e resultados
+├── requirements.txt        # Lista de bibliotecas e versões necessárias
+├── .gitignore              # Arquivos e diretórios ignorados pelo Git
+│
+├── dataset/                # Conjunto de dados
+│   └── data.csv            # Arquivo de dados principal (exemplo)
+│
+├── src/                    # Código-fonte do projeto
+│   ├── data_processing.py  # Script para importação e pré-processamento de dados
+│   ├── analysis.py         # Script para análise exploratória de dados (EDA)
+│   ├── model_training.py   # Script para treinamento do modelo
+│   └── visualization.py    # Script para visualização de dados
+│
+└── results/                # Resultados e saídas do projeto
+    └── graphics/           # Gráficos e visualizações geradas
